@@ -79,10 +79,7 @@ project-directory/
 ├── data/
 │   └── Insurance.csv             # The input dataset
 ├── notebooks/
-│   ├── data_cleaning.ipynb       # Data loading and cleaning steps
-│   ├── eda.ipynb                 # Exploratory data analysis
-│   ├── linear_regression.ipynb   # Linear regression models
-│   └── ridge_regression.ipynb    # Ridge regression and comparison
+│   ├── insurance_cost_analysis.ipynb       # Data loading and cleaning steps
 ├── README.md                     # Project instructions and details
 └── requirements.txt              # Dependencies and libraries
 ```
